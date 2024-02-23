@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-roadrunnerandcoyote-dev-183506-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767397980712:role/amplify-roadrunnerandcoyote-dev-183506-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767397980712:role/amplify-roadrunnerandcoyote-dev-183506-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-roadrunnerandcoyote-dev-183506-deployment",
+      "UnauthRoleName": "amplify-roadrunnerandcoyote-dev-183506-unauthRole",
+      "StackName": "amplify-roadrunnerandcoyote-dev-183506",
+      "StackId": "arn:aws:cloudformation:eu-north-1:767397980712:stack/amplify-roadrunnerandcoyote-dev-183506/2cd64510-d0d7-11ee-a060-0ab20e1a3ce4",
+      "AmplifyAppId": "dtuwvgey67zuf"
+    },
+    "categories": {
+      "auth": {
+        "roadrunnerandcoyote31146027": {}
+      }
+    }
+  }
+}
